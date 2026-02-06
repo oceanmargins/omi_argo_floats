@@ -2,8 +2,10 @@
 # Python scripts to process and analyze Argo floats
 
 
-## Opening GitHub notebooks in Colab (easiest)
-The simplest workflow is to just open any .ipynb file from GitHub directly in Colab:
+## Opening GitHub notebooks in Colab
+It is possible to open the .ipynb files directly from GitHub in Colab:
+
+[https://colab.research.google.com/github/oceanmargins/omi_argo_floats/blob/main/argo_pandas.ipynb]
 
 Replace github.com with colab.research.google.com/github in your notebook URL
 Example: github.com/username/repo/blob/main/notebook.ipynb becomes colab.research.google.com/github/username/repo/blob/main/notebook.ipynb
